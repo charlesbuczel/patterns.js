@@ -1,4 +1,4 @@
-//Module pattern
+//Module
 
 //example
 

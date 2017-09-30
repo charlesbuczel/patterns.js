@@ -1,4 +1,4 @@
-//Revealing module pattern
+//Revealing module
 
 //example
 

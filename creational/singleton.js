@@ -1,4 +1,4 @@
-//Singleton pattern
+//Singleton
 
 //example
 const singleton = (() => {

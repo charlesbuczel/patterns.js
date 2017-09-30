@@ -1,2 +1,2 @@
 # patterns.js
-Collection of design patterns implemented in JavaScript.
+Collection of javascript design patterns and reusable solutions in form of simple templates with tests.

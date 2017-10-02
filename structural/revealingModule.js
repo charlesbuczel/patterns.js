@@ -17,9 +17,9 @@ const revealingModule = (() => {
   let getCounterValue = () => counter;
 
   return {
-    increment: incrementCounter,
-    incrementDev: incrementCounterAndLog,
-    getValue: getCounterValue
+    incrementCounter,
+    incrementCounterAndLog,
+    getCounterValue
   }
 })();
 
